@@ -114,3 +114,41 @@ do {
 Console.WriteLine($"Your input value ({enteredRole}) has been accepted.");
 ```
 
+# Data Types
+
+A data type is a way a programming language defines how much memory to save for a value.
+
+- reference types and value types
+
+Variables of reference types store references to their data (objects), that is they point to data values stored somewhere else. In comparison, variables of value types directly contain their data.
+
+@REM * int - System.Int32
+
+## Integral Data Type
+
+** An integral type is a simple value type that represents whole numbers with no fraction (such as -1, 0, 1, 2, 3). The most popular in this category is the int data type
+
+Signed integral types: Uses it's byte to represent an equal number of positive and negative numbers
+sbyte  : -128 to 127
+short  : -32768 to 32767
+int    : -2147483648 to 2147483647
+long   : -9223372036854775808 to 9223372036854775807
+
+Unsigned integral types: Uses it's byte to represent only positive numbers
+byte   : 0 to 255
+ushort : 0 to 65535
+uint   : 0 to 4294967295
+ulong  : 0 to 18446744073709551615
+
+## Floating point Data Type
+```
+A floating point is a simple value type that represents numbers to the right of the decimal place.
+
+Floating point types:
+float  : -3.402823E+38 to 3.402823E+38 (with ~6-9 digits of precision)
+double : -1.79769313486232E+308 to 1.79769313486232E+308 (with ~15-17 digits of precision)
+decimal: -79228162514264337593543950335 to 79228162514264337593543950335 (with 28-29 digits of precision)
+
+float and double values are stored internally in a binary (base 2) format, while decimal is stored in a decimal (base 10) format, hence float and double are used when estimates and speed are desired and decimal is used when strict accuracy is desired.
+
+A value type variable stores its values directly in an area of storage called the stack. The stack is memory allocated to the code that is currently running on the CPU (also known as the stack frame, or activation frame). When the stack frame has finished executing, the values in the stack are removed.
