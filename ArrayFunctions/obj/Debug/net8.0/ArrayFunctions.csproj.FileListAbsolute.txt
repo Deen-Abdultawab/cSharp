@@ -1,0 +1,14 @@
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.exe
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.deps.json
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.runtimeconfig.json
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.dll
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.pdb
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.AssemblyInfoInputs.cache
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.AssemblyInfo.cs
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.dll
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\refint\ArrayFunctions.dll
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.pdb
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.genruntimeconfig.cache
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ref\ArrayFunctions.dll
