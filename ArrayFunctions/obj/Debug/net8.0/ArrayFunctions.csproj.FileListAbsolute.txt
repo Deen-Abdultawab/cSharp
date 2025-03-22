@@ -12,3 +12,4 @@ C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\r
 C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.pdb
 C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.genruntimeconfig.cache
 C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ref\ArrayFunctions.dll
+C:\Users\Testing\OneDrive\Desktop\c# tutorials\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.sourcelink.json
